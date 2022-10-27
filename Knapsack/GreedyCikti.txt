@@ -1,0 +1,8 @@
+item sayisi(n):4
+kapasite(W):11
+
+[8 val, 4 wt] -kalan W:[7]
+[10 val, 5 wt] -kalan W:[2]
+[15 val , 8 wt] -kalan W:[-6] negatif oldugu icin yer kalmadi!! 
+
+Cantanin Max agirligi:18
